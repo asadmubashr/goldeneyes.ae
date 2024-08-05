@@ -1,0 +1,100 @@
+<?php
+return [
+    'home' => 'Home',
+    #header
+    'about_us' => 'About Us',
+    'our_services' => 'Our Services',
+    'contact_us' => 'Contact Us',
+    'get_a_free_quote' => 'Get a Free Quote',
+    'ac_fall_ceiling_work' => 'AC & Fall Ceiling Work',
+    'plumbing_work' => 'Plumbing Work',
+    'floor_tiling_work' => 'Floor & Tiling Work',
+    'partition_wallpaper_fixing' => 'Partition & Wallpaper Fixing',
+    'cleaning_services' => 'Cleaning Services',
+    'carpentry_wood_flooring_work' => 'Carpentry & Wood Flooring Work',
+    'plaster_work' => 'Plaster Work',
+    'painting_work' => 'Painting Work',
+    'skill_unskilled_worker_supply' => 'Skill & Unskilled Worker Supply',
+    'header_desc1' => 'PREMIER TECHNICAL SERVICES',
+    'header_desc2' => 'SERVICES',
+    'header_desc3' => 'As a leading company in Dubai, Dedicated ​Technical Services consistently meets client ​demands with expertise and proficiency',
+    'enter_your_number' => 'ENTER YOUR NUMBER',
+    'schedule_a_callack' => 'SCHEDULE A CALLBACK',
+    #footer
+    'who_we_are' => 'Who We Are',
+    'who_we_are_desc' => 'At Najma Technical Services, we offer ​a comprehensive range of prime ​services to meet all your technical and ​maintenance needs in Dubai. Our ​electrical services include installation, ​repair, wiring projects, and safety ​inspections, ensuring your systems ​are always functioning efficiently.',
+    'quick_links' => 'Quick Links',
+    'services' => 'Services',
+    'privacy_policy' => 'Privacy Policy',
+    'terms_conditions' => 'Terms & Conditions',
+    'refund_cancellation_policy' => 'Refund & Cancellation Policy',
+    'visit_us' => 'Visit Us',
+    'copyright' => "Copyright",
+    'all_rights_reserved' => 'All Rights Reserved',
+    'designed_developed_by' => 'Designed & Developed by',
+    #wa form
+    'wa_form_des' => 'Turn Your Business Dreams into UAE Reality Today!',
+    'business_consultant' => 'Business Consultant',
+    'online' => 'Online',
+    #we believe
+    'we_believe' => '""WE BELIVE IN PRECISION, INNOVATION, AND RELIABILITY""',
+    #about us home
+    'about_use_home_desc1' => 'Najma Technical Services is a leading provider of technical solutions based in Dubai, UAE. With a strong commitment to excellence and customer satisfaction, we offer a comprehensive range of services to meet the diverse needs of our clients.',
+    'about_use_home_desc2' => "Our team consists of highly skilled professionals with extensive experience in the industry. From electrical and mechanical services to HVAC maintenance and plumbing solutions, we have the expertise to deliver high-quality results that exceed expectations.
+    At Najma Technical Services, we prioritize reliability, efficiency, and affordability. We understand the importance of timely and cost-effective solutions, which is why we strive to provide exceptional service at competitive rates.
+    
+    Customer satisfaction is at the core of everything we do. We value open communication, transparency, and responsiveness, ensuring that our clients are always informed and involved throughout the process.
+    Whether you're a homeowner, business owner, or property manager, Najma Technical Services is your trusted partner for all your technical needs in Dubai. Contact us today to experience the difference firsthand.",
+    #associated partners
+    'our_clientele' => 'Our Clientele',
+    'our_clientele_desc' => 'Seeking a job? Let us assist you in securing your dream position.',
+    #send us inquiry
+    'send_us_your_inquiry' => 'Send Us Your Inquiry',
+    'full_name_star' => 'Full Name*',
+    'email_star' => 'E-Mail*',
+    'phone_number_star' => 'Phone number*',
+    'remarks' => 'Remarks',
+    'send_us_inquiry_desc' => 'I consent to Al Shamil recruitment Services collecting ​my name, email address and phone number and ​contacting me either by the email address or phone ​number supplied.',
+    'enquire_now' => 'Enquire Now',
+    'sending' => 'Sending...',
+    #faqs
+    'faqs' => 'FAQs',
+    'faq1_q' => 'What types of technical services do you offer?',
+    'faq1_a' => 'At Najma Technical Services, we offer a wide range of technical services. Our offerings include electrical installations and repairs, plumbing solutions, HVAC maintenance, custom carpentry, professional painting, and quality masonry work. We also provide comprehensive renovation and remodeling services, facility management, and general handyman services. Our expert team is dedicated to delivering top-notch, efficient solutions to meet your needs.',
+    'faq2_q' => 'Do you offer emergency services?',
+    'faq2_a' => 'Yes, we offer emergency services to address urgent technical issues promptly and efficiently.',
+    'faq3_q' => 'How can I request a service from NTS?',
+    'faq3_a' => 'You can request a service from NTS by calling us, sending an email, or filling out the service request form on our website.',
+    'faq4_q' => 'How do you ensure the reliability of your services?',
+    'faq4_a' => 'We ensure the reliability of our services through rigorous quality control, regular training for our team, and adherence to industry standards.',
+    'faq5_q' => 'Are your workers certified and experienced?',
+    'faq5_a' => 'Yes, our workers are certified and experienced, ensuring high-quality service and expertise in their respective fields.',
+    'faq6_q' => 'Can I schedule a service online?',
+    'faq6_a' => 'Yes, you can easily schedule a service online through our website.',
+    'faq7_q' => 'What areas in Dubai do you serve?',
+    'faq7_a' => 'We serve all areas in Dubai, ensuring that our high-quality technical services are accessible throughout the city.',
+    'faq8_q' => 'What are your operating hours?',
+    'faq8_a' => 'Our operating hours are from 09:00 A.M - 05:30 P.M',
+    'faq9_q' => 'How can I get a quote for a project?',
+    'faq9_a' => 'You can get a quote for a project by contacting us via phone, email, or filling out the quote request form on our website',
+    'faq10_q' => 'How can I contact support for more information?',
+    'faq10_a' => 'You can contact support for more information by calling our customer service number, emailing us, or using the live chat feature on our website.',
+    #contact us page
+    'send_a_message' => 'Send a Message',
+    'get_in_touch' => 'Get In Touch',
+    'we_will_respond_to_your_message_as_soon_as_possible' => 'We will respond to your message as soon as possible',
+    'message' => 'Message',
+    'send' => 'Send',
+    #results in numbers
+    'results_in_numbers' => 'Results in Numbers',
+    'results_in_numbers_des' => 'Our job is to exceed expectations by delivering the best job possible.',
+    'license_issued' => 'LICENSE ISSUED',
+    'customers' => 'CUSTOMERS',
+    'countries_served' => 'COUNTRIES SERVED',
+    #about page
+    "15_years_of_experience" => "15 Years of Experience",
+    "aboutpage1_des" => "AL SHAMIL Zone Business Men Services is located in Fifth Floor, Al, Etihad Building - Office No. 504 - 8th St - Deira - Dubai - United Arab Emirates We provide seamless services to clients by optimizing the expertise of our team, systems, and procedures.",
+    "aboutpage2_des" => "As a business setup consultant in Dubai, we work with entrepreneurs by equipping their start-up businesses with everything they need to meet government policies, have a fully operational bank account, meet all requirements, and set themselves on a path of success in their business setup and operations with the highest level of efficiency and compliance.",
+    "aboutpage3_des" => "The founders and the team have an extensive experience in the banking sector, dealing with individual and corporate clients for more than two decades. At present we are one of the best consultants in Dubai, UAE.",
+    
+]; 
